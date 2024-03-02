@@ -8,5 +8,5 @@ python setup.py develop
 
 ### RUN
 ```
-python test.py
+python webuiapi.py
 ```
